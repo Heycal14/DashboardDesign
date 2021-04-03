@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DashboardDesign</string>
+    <string name="find">Find the freshest product for you!</string>
+    <string name="search">Search</string>
+    <string name="pepaya">Papaya</string>
+    <string name="cabe">Fits</string>
+    <string name="tomat">Tomato</string>
+    <string name="kacang">Long Beans</string>
+    <string name="wortel">Carrot</string>
+    <string name="bayam">Spinach</string>
+    <string name="quote">Nothing will benefit human health and increase chances for survival of life on Earth as much as the evolution to a vegetarian diet</string>
+    <string name="memilih">Choose the Freshest</string>
+    <string name="lets">Lets Start</string>
+    <string name="desk">Vegetables are a general term for plant-based foodstuffs which usually contain high water content and are consumed fresh or after being minimally processed. The designation for various types of vegetables is referred to as vegetables or vegetables.</string>
+</resources>
